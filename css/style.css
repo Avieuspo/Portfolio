@@ -44,7 +44,7 @@ body {
     border-bottom: 1px solid #010101;
 }
 .light .steps-item:first-child {
-    border-bottom: 1px solid #010101;
+    border-top: 1px solid #010101;
 }
 .wrapper {
     max-width: 1140px;
