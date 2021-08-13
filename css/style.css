@@ -21,7 +21,7 @@ body {
 .dark .steps-item {
     border-bottom: 1px solid #F3F2F0;
 }
-.dark .steps-item:first-child {
+.dark .steps:first-child {
     border-top: 1px solid #F3F2F0;
 }
 .light {
@@ -43,7 +43,7 @@ body {
 .light .steps-item {
     border-bottom: 1px solid #010101;
 }
-.light .steps-item:first-child {
+.light .steps:first-child {
     border-top: 1px solid #010101;
 }
 .wrapper {
